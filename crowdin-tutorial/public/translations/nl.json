@@ -1,0 +1,6 @@
+{
+  "welcome": "Welkom!",
+  "sampleText": "Voorbeeld <bold><italic>tekst</italic></bold>.",
+  "changed_one": "Je hebt de taal {{count}} keer gewijzigd",
+  "changed_other": "Je hebt de taal {{count}} keer gewijzigd"
+}
